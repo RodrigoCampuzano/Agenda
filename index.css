@@ -1,42 +1,22 @@
 body{
     background-color: rgb(131, 185, 131);
 }
-
 #agregar{
+    margin-left: 45%;
+    border-radius: 30%;
+}
+#divprincipal{
     margin-left: 40%;
-    border-radius: 40%;
 }
-
-#mostrar{
-    border-radius: 40%;
-}
-
-#idp{
-    margin-left: 35%;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#id1{
-    margin-left: 5px;
-    border-radius: 5px;
-}
-
 #btnguardar{
     margin-top: 5px;
-    margin-left: 46%;
+    margin-left: 10%;
 }
-
 #h2{
     margin-right: 41%;
     margin-left: 42%;
 }
-
 #nombrep{
-    margin-left: 40%;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#numerop{
-    margin-left: 40%;
+    margin-left: 35%;
     font-family: Arial, Helvetica, sans-serif;
 }
